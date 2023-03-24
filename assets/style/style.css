@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+.conrainer{
+    display: flex;
+    justify-content: center;
+}
+.block-foto {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    background-image: url(https://images11.graziamagazine.ru/upload/img_cache/ad9/ad99521f39944fdfd03bde3737b531c1_cropped_666x666.jpeg);
+    background-size: cover;
+   
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+   
+}
